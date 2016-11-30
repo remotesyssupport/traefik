@@ -1,5 +1,5 @@
-hash: 26bdc224454872acf1a9a58e0f4c33442a807087286043ed7d8d6640f1a2e8fc
-updated: 2016-12-05T21:21:43.691375582+01:00
+hash: 6c6b0664bdd804c266290646860e7bcc74a9a85238ebf721b4d782b1fec5401e
+updated: 2016-12-06T13:33:32.480009718+01:00
 imports:
 - name: github.com/abbot/go-http-auth
   version: cb4372376e1e00e9f6ab9ec142e029302c9e7140
@@ -266,6 +266,8 @@ imports:
   version: 5d001d020961ae1c184f9f8152fdc73810481677
 - name: github.com/mitchellh/mapstructure
   version: f3009df150dadf309fdee4a54ed65c124afad715
+- name: github.com/mvdan/xurls
+  version: de85a6f607af2e645cce05905efd9420e43b91f1
 - name: github.com/NYTimes/gziphandler
   version: f6438dbf4a82c56684964b03956aa727b0d7816b
 - name: github.com/ogier/pflag
